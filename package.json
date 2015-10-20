@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-formhelpers",
+  "name": "bootstrap-formhelpers-macate",
   "description": "A collection of jQuery plugins for Bootstrap.",
-  "version": "2.3.0",
+  "version": "2.3.0.1",
   "keywords": [
     "bootstrap",
     "css"
